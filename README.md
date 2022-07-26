@@ -8,6 +8,7 @@ Vististem meus sites:
 
 Visitem também minhas redes socias:
 
+- [LinkedIn](https://br.linkedin.com/in/henfagundes)
 - [Twitter](https://twitter.com/CaraDoLinux)
 - [Facebook](https://fb.com/CaraDoLinux)
   - [Fanpage](https://fb.com/AprendendoLinux)
