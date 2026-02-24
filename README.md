@@ -6,24 +6,35 @@ Sou um **Analista de Infraestrutura** apaixonado por tecnologia, com forte atua�
 
 ## 🚀 Sobre Mim
 
-- 🛠️ **Especialista em Infraestrutura e Redes:** Atuo com auditoria de firewalls, roteamento avançado (pfSense, MikroTik RouterOS) e implementações complexas, incluindo failover de IPv6.
-- 💻 **Desenvolvimento e Automação:** Crio sistemas de gestão modernos, independentes e escaláveis, utilizando **Python, Flask e Docker**. Valorizo muito a experiência do usuário, tendo preferência por interfaces limpas, futuristas, layouts em *cards* e estética *dark/neon*.
-- ☁️ **Virtualização:** Tenho experiência sólida com plataformas de virtualização corporativas, como **XCP-NG, Proxmox e VMware ESXi**.
-- ⚽ **Além dos servidores:** Sou um grande torcedor do Flamengo e um recaionário de extrema-direita!
+- 🛠️ **Especialista em Infraestrutura e Redes:**
+  - Atuo com auditoria de firewalls, roteamento avançado (pfSense, MikroTik RouterOS) e implementações complexas, incluindo failover de IPv6.
+- 💻 **Desenvolvimento e Automação:**
+  - Crio sistemas de gestão modernos, independentes e escaláveis, utilizando **Python, Flask e Docker**. Valorizo muito a experiência do usuário, tendo preferência por interfaces limpas, futuristas, layouts em *cards* e estética *dark/neon*.
+- ☁️ **Virtualização:**
+  -  Tenho experiência sólida com plataformas de virtualização corporativas, como **XCP-NG, Proxmox e VMware ESXi**.
+- ⚽ **Além dos servidores:**
+  -  Flamenguista, cervejeiro, conservador de extrema-direita, papai do Cacá, da Lulu e marido da Lili.
 
 ## 🛠️ Tech Stack & Ferramentas
 
-- **Infraestrutura & Redes:** MikroTik, pfSense, IPv6 (NAT66, Netwatch)
-- **Virtualização & Containers:** XCP-NG, Proxmox, VMware ESXi, Docker, Portainer
-- **Desenvolvimento:** Python, Flask, UI Design (SVG, Dark/Neon themes)
-- **Sistemas Operacionais:** Linux Server, Ubuntu, Linux Mint, Zorin OS, Pop!_OS
+- **Infraestrutura & Redes:**
+  - MikroTik, pfSense, IPv6 (NAT66, Netwatch)
+- **Virtualização & Containers:**
+  -  XCP-NG, Proxmox, VMware ESXi, Docker, Portainer
+- **Desenvolvimento:**
+  -  Python, Flask, UI Design (SVG, Dark/Neon themes)
+- **Sistemas Operacionais:**
+  -  Linux Server, Ubuntu, Linux Mint, Zorin OS, Pop!_OS
 
 ## 🌐 Meus Projetos
 
 Atualmente, dedico meu tempo aos meus projetos pessoais e desenvolvimento de soluções independentes:
-- **[henrique.tec.br](https://www.henrique.tec.br)**: Meu portfólio e plataforma pessoal para oferta de serviços de tecnologia, focados em auditoria de firewall, infraestrutura e desenvolvimento de sistemas.
-- **[aprendendolinux.com](https://www.aprendendolinux.com)**: O Portal Aprendendo Linux.
-- **Modernização de Sistemas:** Desenvolvimento contínuo de módulos de gestão de usuários e áreas administrativas seguras.
+- **[henrique.tec.br](https://www.henrique.tec.br)**:
+  - Meu portfólio e plataforma pessoal para oferta de serviços de tecnologia, focados em auditoria de firewall, infraestrutura e desenvolvimento de sistemas.
+- **[aprendendolinux.com](https://www.aprendendolinux.com)**:
+  - O Portal Aprendendo Linux.
+- **Modernização de Sistemas:**
+  -  Desenvolvimento contínuo de módulos de gestão de usuários e áreas administrativas seguras.
 
 ## 📬 Vamos nos conectar!
 
