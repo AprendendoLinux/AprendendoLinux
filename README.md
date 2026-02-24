@@ -9,7 +9,7 @@ Sou um **Analista de Infraestrutura** apaixonado por tecnologia, com forte atua�
 - 🛠️ **Especialista em Infraestrutura e Redes:** Atuo com auditoria de firewalls, roteamento avançado (pfSense, MikroTik RouterOS) e implementações complexas, incluindo failover de IPv6.
 - 💻 **Desenvolvimento e Automação:** Crio sistemas de gestão modernos, independentes e escaláveis, utilizando **Python, Flask e Docker**. Valorizo muito a experiência do usuário, tendo preferência por interfaces limpas, futuristas, layouts em *cards* e estética *dark/neon*.
 - ☁️ **Virtualização:** Tenho experiência sólida com plataformas de virtualização corporativas, como **XCP-NG, Proxmox e VMware ESXi**.
-- ⚽ **Além dos servidores:** Sou um grande torcedor do Flamengo!
+- ⚽ **Além dos servidores:** Sou um grande torcedor do Flamengo e um recaionário de extrema-direita!
 
 ## 🛠️ Tech Stack & Ferramentas
 
@@ -34,7 +34,7 @@ Sinta-se à vontade para entrar em contato para conversarmos sobre Open Source, 
 - 💼 **LinkedIn:** [/in/henfagundes](https://br.linkedin.com/in/henfagundes)
 - 🐦 **Twitter:** [@CaraDoLinux](https://twitter.com/CaraDoLinux)
 - 📘 **Facebook:** [Henrique Fagundes](https://fb.com/CaraDoLinux) | [Página: Aprendendo Linux](https://fb.com/AprendendoLinux)
-- ✈️ **Telegram:** [@HenriqueFagundes](https://t.me/HenriqueFagundes) | [Canal: Aprendendo Linux](https://t.me/AprendendoLinux) | [Grupo: Aprendendo Linux](https://t.me/GrupoAprendendoLinux)
+- ✈️ **Telegram:** [@HenriqueFagundes](https://t.me/CaraDoLinux) | [Canal: Aprendendo Linux](https://t.me/AprendendoLinux) | [Grupo: Aprendendo Linux](https://t.me/GrupoAprendendoLinux)
 
 ---
 *Sempre em busca da próxima grande solução Open Source!*
