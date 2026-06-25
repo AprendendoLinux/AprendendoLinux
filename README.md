@@ -42,7 +42,7 @@ Sinta-se à vontade para entrar em contato para conversarmos sobre Open Source, 
 
 - 📧 **E-mail Profissional:** henrique@henrique.tec.br
 - 📱 **WhatsApp:** [Fale comigo!](https://web.whatsapp.com/send?phone=5521981176211)
-- 💼 **LinkedIn:** [/in/henfagundes](https://br.linkedin.com/in/henfagundes)
+- 💼 **LinkedIn:** [/in/caradolinux](https://br.linkedin.com/in/caradolinux)
 - 🐦 **Twitter:** [@CaraDoLinux](https://twitter.com/CaraDoLinux)
 - 📘 **Facebook:** [Henrique Fagundes](https://fb.com/CaraDoLinux) | [Página: Aprendendo Linux](https://fb.com/AprendendoLinux)
 - ✈️ **Telegram:** [@HenriqueFagundes](https://t.me/CaraDoLinux) | [Canal: Aprendendo Linux](https://t.me/AprendendoLinux) | [Grupo: Aprendendo Linux](https://t.me/GrupoAprendendoLinux)
