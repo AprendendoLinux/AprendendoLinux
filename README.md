@@ -45,7 +45,7 @@ Sinta-se à vontade para entrar em contato para conversarmos sobre Open Source, 
 - 💼 **LinkedIn:** [/in/caradolinux](https://br.linkedin.com/in/caradolinux)
 - 🐦 **Twitter:** [@CaraDoLinux](https://twitter.com/CaraDoLinux)
 - 📘 **Facebook:** [Henrique Fagundes](https://fb.com/CaraDoLinux) | [Página: Aprendendo Linux](https://fb.com/AprendendoLinux)
-- ✈️ **Telegram:** [@HenriqueFagundes](https://t.me/CaraDoLinux) | [Canal: Aprendendo Linux](https://t.me/AprendendoLinux) | [Grupo: Aprendendo Linux](https://t.me/GrupoAprendendoLinux)
+- ✈️ **Telegram:** [@CaraDoLinux](https://t.me/CaraDoLinux) | [Canal: Aprendendo Linux](https://t.me/AprendendoLinux) | [Grupo: Aprendendo Linux](https://t.me/GrupoAprendendoLinux)
 
 ---
 *Sempre em busca da próxima grande solução Open Source!*
